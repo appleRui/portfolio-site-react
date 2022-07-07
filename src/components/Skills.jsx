@@ -1,7 +1,7 @@
 import './Skills.scss'
 import { requestStates } from '../constants';
 import Circle from 'react-circle';
-import { useSkills } from '../customHooks/useSkills';
+import { useSkills } from '../hooks/useSkills';
 
 
 export const Skills = () => {
