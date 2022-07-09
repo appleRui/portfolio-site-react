@@ -1,6 +1,6 @@
 import { FaTwitter, FaGithub } from 'react-icons/fa';
-import ProfileImage from '../images/profile.png';
-import BackgroundImage from '../images/background.jpeg';
+import ProfileImage from '../assets/img/profile.png';
+import BackgroundImage from '../assets/img/background.jpeg';
 import './Header.scss'
 
 export const Header = () => {

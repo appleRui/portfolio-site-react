@@ -5,7 +5,7 @@ import { useSkills } from '../hooks/useSkills';
 
 
 export const Skills = () => {
-    const [sortedLanguageList, fetchRequestState, converseCountToPercentage] = useSkills();
+  const [sortedLanguageList, fetchRequestState, converseCountToPercentage] = useSkills();
 
   return(
     <div id="skills">
